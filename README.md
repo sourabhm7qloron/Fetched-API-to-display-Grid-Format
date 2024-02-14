@@ -1,1 +1,1 @@
-# Fetched-API-to-display-Grid-Format
+# Fetched-API-to-display-Product-Grid-Format
